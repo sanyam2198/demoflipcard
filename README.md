@@ -1,2 +1,0 @@
-# demoflipcard
-Flipkart stuff
